@@ -73,7 +73,7 @@ FantasyAgent::status FantasyAgent::signPlayer(alias_t name)
 
 			//std::cout << sb.DebugString();
 			//Commissioner::GenesisBlock = sb;
-/*
+*//*
 	auto nt = Commissioner::createGenesisName();
 	NameTrans nt2{};
 	nt2.set_hash(nt.name_hash);
