@@ -1,26 +1,26 @@
-#Satoshi Fantasy - Distributed Fantasy Football 
+# Satoshi Fantasy - Distributed Fantasy Football 
 
-##Projects
+## Projects
 	fantsybit - server code written in C++11, clang , xcode
 	cute-fantsy - QT GUI 
 	fantsybitcli - Commandline UI for testing 
 
-##Status / Schedule
+## Status / Schedule
 	Minimal Viable Product / Whitepaper - released April 15th 2014 
 	block-chain
 	projections
 	exchnage
 	transfers 
 
-##Dependencies
+## Dependencies
 	clang++ -std=c++11 -stdlib=libc++
 	fc
 	nanomsg
 	protobuf
 	boost
 
-##Build 
+## Build 
 cmake - xcode 
 
-###Whitepaper
+### Whitepaper
 http://satoshifantasy.com/media/satoshifantasy.pdf
