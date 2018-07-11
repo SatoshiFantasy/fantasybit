@@ -23,4 +23,4 @@
 cmake - xcode 
 
 ### Whitepaper
-http://satoshifantasy.com/media/satoshifantasy.pdf
+http://protoblock.com/docs/whitepaper-2014.pdf
